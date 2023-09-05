@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Sumit Sharma 
-- 👀 I’m interested in software development (Android)
-- 🌱 I love make android apps using kotlin 
+- 👀 I’m interested in software development 
+- I have repository around frontend, backend, fullstack,
+   android(kotlin), React-native 
 -    I have solved 1200+problems on DSA.
-- 💞️ I have 24 repository 
+- 💞️ I have 42 repository 
 - 📫 How to reach me imsumitsharma619@gmail.com 
 
 <!---
