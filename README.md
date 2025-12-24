@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Sumit Sharma 
 - 👀 I’m interested in software development 
 - I have repository around frontend, backend, fullstack,
-   android(kotlin), React-native 
--   
-- 💞️ I have 42 repository 
+   android(kotlin), React-native , Mern-stack
+- 💞️ I have 50+ repository 
 - 📫 How to reach me imsumitsharma619@gmail.com 
 
 <!---
